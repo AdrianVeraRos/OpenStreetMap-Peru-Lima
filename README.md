@@ -16,7 +16,7 @@ If you have trouble opening the python notebook file please follow this [link](h
 
 
 ## About
-I lived most of my 2017 in Lima, and one of the first things that surprised me the most when I arrived was the laxitude of the people. I selected Lima for being a city I know and I'm fond of; but mostly because of the challenge that this laxitude could imply in a collaboratively created dataset like OpenStreetMap.
+I lived most of 2017 in Lima, and one of the first things that surprised me the most when I arrived was the laxitude of the people. I selected Lima for being a city I know and I'm fond of; but mostly because of the challenge that this laxitude could imply in a collaboratively created dataset like OpenStreetMap.
 
 * Extracted on 2018 October 18th with Overpass-API from: https://overpass-api.de/api/map?bbox=-77.2693,-12.2784,-76.8996,-11.8577 
 
